@@ -1,0 +1,33 @@
+body{
+    background-color:hsl(212, 45%, 89%) ;
+}
+.card-container{
+    background-color: hsl(0, 0%, 100%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 21.875em;
+    max-height: 43.75em;
+    margin: 8em auto;
+}
+
+.card-content{
+
+}
+
+.img{
+    width: 18.75em;
+    height: 18.75em;
+    padding: 1em 2em;
+}
+ h1{
+    text-align: center;
+    font-family: "Outfit", serif;
+    font-weight: 700;
+ }
+
+ p{
+    text-align: center;
+    font-family: "Outfit", serif;
+        font-weight: 400;
+ }

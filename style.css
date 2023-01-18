@@ -13,23 +13,20 @@ body {
     flex-direction: column;
     align-items: center;
     max-width: 20.875em;
-    max-height: 43.75em;
     margin: 8em auto;
     border: 1px solid white;
     border-radius: 1em;
-}
-
-.card-content {
     display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding: 0.9em;
-
+        flex-direction: column;
+        align-items: center;
+        padding: 0.9em;
 }
+
+
 
 .img {
-    width: 18.75em;
-    height: 18.75em;
+    max-width: 100%;
+   
     border: 1px solid hsl(0, 0%, 100%)  ;
     border-radius: 1em;
 }
